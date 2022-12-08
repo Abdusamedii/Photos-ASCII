@@ -1,0 +1,6 @@
+README
+1.e hap file pictotext.java me naj IDE ose text editor
+2.Tek linja 17 e shkrun emrin e userit (ose vendin ku po don me u ru .txt file mas konvertimit) 
+3.tek linja 20 e zgjedh cilen fotografi me marr 
+4.nepermjet CMD e bon compile "javac pictotext.java"
+5.Tani e bon "java pictotext.java"
