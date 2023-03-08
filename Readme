@@ -1,5 +1,2 @@
-README
-1.e hap file pictotext.java me naj IDE ose text editor
-3.tek linja 20 e zgjedh cilen fotografi me marr 
-4.nepermjet CMD e bon compile "javac pictotext.java"
-5.Tani e bon "java pictotext.java"
+1.choose the folder you would like to save the output in, also name the file
+2.choose the picture you would like to convert
